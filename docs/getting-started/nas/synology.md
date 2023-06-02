@@ -67,8 +67,8 @@ This guide describes how to set up PhotoPrism using the new Synology user interf
 
   ![Photoprism_3_en](./img/synology/Photoprism_3_en.jpg){ class="shadow" }
 
-- enter values for PHOTPRISM_SITE_DESCRIPTION and PHOTOPRISM_SITE_AUTOR
-- PHOTOPRISM_DATABASE_SERVER and PHOTOPRISM_DATABASE_PASSWORD are used for mariadb. It is recommended to use mariadb but not part of this guide
+- enter values for PHOTOPRISM_SITE_DESCRIPTION and PHOTOPRISM_SITE_AUTHOR
+- PHOTOPRISM_DATABASE_SERVER and PHOTOPRISM_DATABASE_PASSWORD are used for mariadb. It is recommended to use MariaDB, but that setup is not part of this guide.
 - Save
 
   ![Photoprism_4_2_en](./img/synology/Photoprism_4_2_en.jpg){ class="shadow" }
